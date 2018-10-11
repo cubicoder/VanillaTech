@@ -22,7 +22,7 @@ public class GuiAlloyFurnace extends GuiContainer {
 
 	@Override
 	protected void drawGuiContainerForegroundLayer(int mouseX, int mouseY) {
-		String name = I18n.format(ModBlocks.ALLOY_FURNACE.getTranslationKey());
+		String name = I18n.format(ModBlocks.ALLOY_FURNACE.getTranslationKey() + ".name");
 		fontRenderer.drawString(name, xSize / 2 - fontRenderer.getStringWidth(name) / 2, 6, 4210752);
 		fontRenderer.drawString(playerInv.getDisplayName().getUnformattedText(), 8, this.ySize - 94, 4210752);
 	}
