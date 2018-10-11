@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "vanillatech:alloy_furnace" },
+        "facing=south": { "model": "vanillatech:alloy_furnace", "y": 180 },
+        "facing=west":  { "model": "vanillatech:alloy_furnace", "y": 270 },
+        "facing=east":  { "model": "vanillatech:alloy_furnace", "y": 90 }
+    }
+}

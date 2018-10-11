@@ -1,0 +1,8 @@
+{
+	"parent": "block/orientable",
+	"textures": {
+		"top": "vanillatech:blocks/alloy_furnace_side",
+		"front": "vanillatech:blocks/alloy_furnace_front_off",
+		"side": "vanillatech:blocks/alloy_furnace_side"
+	}
+}

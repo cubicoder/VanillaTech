@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vanillatech",
+  "name": "VanillaTech",
+  "description": "Want to expand the technology in Minecraft, but don't want to lose that vanilla feel? Then this is the mod for you!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "cubicoder.wordpress.com",
+  "updateUrl": "",
+  "authorList": ["cubicoder"],
+  "credits": "All code and textures created by cubicoder.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
